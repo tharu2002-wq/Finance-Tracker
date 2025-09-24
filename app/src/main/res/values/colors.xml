@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base theme colors -->
+    <color name="primary">#BF389A</color> <!-- bold magenta-pink -->
+    <color name="primary_dark">#9C2F7F</color> <!-- deeper magenta -->
+    <color name="primary_light">#DB6ABB</color> <!-- lighter pink highlight -->
+    <color name="accent">#2D9BFE</color> <!-- vibrant blue for high contrast -->
+    <color name="accent_dark">#1B82E1</color> <!-- darker blue variant -->
+
+    <!-- Text colors -->
+    <color name="text_primary">#1B1B1F</color> <!-- almost black -->
+    <color name="text_secondary">#4A4A52</color> <!-- charcoal gray -->
+    <color name="text_hint">#9999A1</color> <!-- muted lavender-gray -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Backgrounds -->
+    <color name="backgroundclr">#F5F5F5</color> <!-- pale lavender-pink -->
+    <color name="background">#D9D9D9</color>
+    <color name="card_background">#F5F5F5</color>
+    <color name="divider">#E8E0E6</color> <!-- soft violet divider -->
+
+    <!-- Status colors -->
+    <color name="success">#00C48C</color>
+    <color name="warning">#FFB800</color>
+    <color name="error">#EB5757</color>
+    <color name="info">#2D9BFE</color>
+
+    <!-- Transaction colors -->
+    <color name="income">#00C48C</color>
+    <color name="expense">#FFEB3B</color> <!-- align with theme -->
+
+    <!-- Budget status colors -->
+    <color name="budget_good">#00C48C</color>
+    <color name="budget_warning">#FFB800</color>
+    <color name="budget_exceeded">#BF389A</color>
+
+    <!-- Chart colors - bold and expressive -->
+    <color name="chart_color_1">#BF389A</color>
+    <color name="chart_color_2">#2D9BFE</color>
+    <color name="chart_color_3">#00C48C</color>
+    <color name="chart_color_4">#FFB800</color>
+    <color name="chart_color_5">#7E6AD4</color>
+    <color name="chart_color_6">#FFA7DD</color> <!-- soft pink -->
+    <color name="chart_color_7">#63D2FE</color>
+    <color name="chart_color_8">#A64CFE</color>
+
+    <!-- Category colors - bright and readable -->
+    <color name="category_food">#BF389A</color>
+    <color name="category_transport">#2D9BFE</color>
+    <color name="category_bills">#00C48C</color>
+    <color name="category_entertainment">#A64CFE</color>
+    <color name="category_shopping">#FFB800</color>
+    <color name="category_health">#DB6ABB</color>
+    <color name="category_education">#63D2FE</color>
+    <color name="category_housing">#4A4A52</color>
+    <color name="category_other">#9999A1</color>
+
+    <!-- Night Mode -->
+    <color name="night_primary">#D155B1</color> <!-- lighter pinkish magenta -->
+    <color name="night_background">#141015</color> <!-- dark violet black -->
+    <color name="night_surface">#1F1A22</color>
+    <color name="night_text_primary">#F3F1F4</color>
+    <color name="night_text_secondary">#C2BCC9</color>
+    <color name="night_card_background">#29232D</color>
+    <color name="night_divider">#3B3440</color>
+    <color name="night_accent">#63D2FE</color>
+
+</resources>
